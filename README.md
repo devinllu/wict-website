@@ -3,3 +3,7 @@
 ```source venv/bin/activate```
 ```deactivate```
 ```pip install -r requirements.txt```
+
+## To run the application
+
+```python app.py```
