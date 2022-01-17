@@ -9,3 +9,7 @@ def home():
 @views.route('/execs')
 def execs():
   return render_template("execs.html")
+
+@views.route('/merch')
+def merch():
+  return render_template("merch.html")
