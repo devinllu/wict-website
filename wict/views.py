@@ -13,3 +13,7 @@ def execs():
 @views.route('/merch')
 def merch():
   return render_template("merch.html")
+
+@views.route('/design')
+def design():
+  return render_template("design.html")
