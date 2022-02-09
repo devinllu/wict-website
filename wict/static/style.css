@@ -21,6 +21,10 @@ body {
     color: #54a9ab;
 }
 
+.text-brown {
+    color: #867d75;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
@@ -35,6 +39,12 @@ body {
     right: 45px;
     bottom: 45px;
     z-index: 99;
+}
+
+.img-gallery {
+    width: 95%;
+    height: 7vw;
+    object-fit: cover;
 }
 
 .card-img-top {
