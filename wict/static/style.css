@@ -5,6 +5,22 @@
     --dark: #181d38;
 }
 
+body {
+    background: #e8e6e3;
+}
+
+.bg-beige {
+    background: #e8e6e3;
+}
+
+.text-light-teal {
+    color: #5bc4bf;
+}
+
+.text-dark-teal {
+    color: #54a9ab;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
