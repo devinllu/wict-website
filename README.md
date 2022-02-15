@@ -6,4 +6,4 @@
 
 ## To run the application
 
-```python app.py```
+```python wsgi.py```
