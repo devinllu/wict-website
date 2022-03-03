@@ -17,12 +17,20 @@ body {
     color: #5bc4bf;
 }
 
+.bg-text-light-teal {
+    background-color: #5bc4bf !important;
+}
+
 .text-dark-teal {
     color: #54a9ab;
 }
 
+.bg-text-dark-teal {
+    background-color: #54a9ab !important;
+}
+
 .text-brown {
-    color: #867d75;
+    color: #867d75 !important;
 }
 
 .fw-medium {
